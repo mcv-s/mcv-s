@@ -2,7 +2,8 @@
 
   ## Hi there 👋
   
-  <img src="profile/top-langs.svg" align="right" width="340">
+  <img src="profile/top-langs-light.svg#gh-light-mode-only" align="right" width="340">
+  <img src="profile/top-langs-dark.svg#gh-dark-mode-only" align="right" width="340">
 
 
   Creator focused in the digital medium
