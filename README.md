@@ -1,26 +1,9 @@
 ## Hi there 👋
 
-<!--
-**mcv-s/mcv-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Creator focused in the digital medium. 
 
-Here are some ideas to get you started:
+Wish I knew how to use Github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Languages](./profile/top-langs.svg)](https://mcv-s.github.io/)
 
-
-
-
-![GitHub Stats](./profile/stats.svg)
-
-![Top Languages](./profile/top-langs.svg)
-
-![Pinned Repository](./profile/pin-stats-organization-github-readme-stats.svg)
-
+Visit [my website](https://mcv-s.github.io/) to see my projects
