@@ -1,9 +1,17 @@
-## Hi there 👋
+<div>
 
-Creator focused in the digital medium. 
+  ## Hi there 👋
+  
+  <img src="profile/top-langs.svg" align="right" width="340">
 
-Wish I knew how to use Github
 
-[![Top Languages](./profile/top-langs.svg)](https://mcv-s.github.io/)
+  Creator focused in the digital medium
+  <br>
 
-Visit [my website](https://mcv-s.github.io/) to see my projects
+  Visit [my website](https://mcv-s.github.io/) to see my projects
+  <br><br>
+  
+  > _"Really wish I knew how to use Github"_
+
+
+</div>
