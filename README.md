@@ -2,9 +2,11 @@
 
   ## Hi there 👋
   
-  <img src="profile/top-langs-light.svg#gh-light-mode-only" align="right" width="340">
-  <img src="profile/top-langs-dark.svg#gh-dark-mode-only" align="right" width="340">
-
+  <picture>
+    <source srcset="profile/top-langs-dark.svg" media="(prefers-color-scheme: dark)">
+    <source srcset="profile/top-langs-light.svg" media="(prefers-color-scheme: light)">
+    <img src="profile/top-langs-light.svg" width="340" align="right">
+  </picture>
 
   Creator focused in the digital medium
   <br>
