@@ -8,7 +8,8 @@
     <img src="profile/top-langs-light.svg" width="340" align="right">
   </picture>
 
-  Creator focused in the digital medium
+  Creator focused in the digital medium<br>
+  <sub>_(That means I make stuff for fun)_</sub>
   <br>
 
   Visit [my website](https://mcv-s.github.io/) to see my projects
